@@ -60,11 +60,6 @@ Q=S|((~R)&Q);
 Qbar=R|((~S)&(Qbar));
 end
 endmodule
-```
-```
-Developed by:Porkodi B
-RegisterNumber:24900502
-```
 
 
 **RTL LOGIC FOR FLIPFLOPS**
